@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Desktop/Lab08/Punct.cpp
+Punct.h
+C:/Desktop/Lab08/Punct.h
+
+C:/Desktop/Lab08/Punct.h
+iostream
+-
+cstring
+-
+
+C:/Desktop/Lab08/main.cpp
+Punct.h
+C:/Desktop/Lab08/Punct.h
+

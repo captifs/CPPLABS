@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Desktop/Lab06/main.cpp
+iostream
+-
+matrice.h
+C:/Desktop/Lab06/matrice.h
+
+C:/Desktop/Lab06/matrice.h
+iostream
+-
+

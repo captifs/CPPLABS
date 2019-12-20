@@ -1,0 +1,61 @@
+
+
+Laborator 1
+
+
+Realizati in Dev-C++*  urmatoarele programe:
+
+1.  Se da un vector-v de lungime oarecare- n citita de la tastatura 
+    -  realizati o functie care aloca dinamic spatiu pentru v si initializeaza cu 0 toate elementele acestuia
+    -  realizati o functie pentru citirea de la tastatura a valorilor stocate in v 
+    -  realizati o functie care ordoneaza crescator vectorul 
+    -  realizati o functie pentru afisarea lui v
+    In main - apelati functiile. 
+
+2. Se da o matrice m superior triunghiulara cu l linii si c colane (l, c - citite de la tastatura) 
+    -  realizati o functie care aloca dinamic spatiu pentru m
+    -  realizati o functie pentru citirea de la tastatura a valorilor stocate in m 
+    -  realizati o functie care ridica matricea la patrat (daca este posibil) si returneaza rezultatul (sau null) intr-o alta matrice 
+    -  realizati o functie care calculeaza suma elementelor de pe diagonala principala
+    -  realizati o functie pentru afisarea lui m
+    In main - apelati functiile.
+
+3.  Realizati o functie recursiva pentru calculul factorialului unui numar.
+    Cum arata stiva programului la apelul acestei functii?
+
+4.  Realizati o functie care citeste de la tastatura numere pana cand e introdusa valoarea -1 si apoi le afiseaza in ordinea inversa a citirii (recursiv).
+
+5.  Creati o structura pentru numere complexe (trebuie sa contina partea reala si cea imaginara de tip double).
+    Creati un vector v de numere complexe, de dimensiune oarecare n - citita de la tastatura (alocare dinamica).
+    Initializati elementele din vector cu valori citite de la tastatura, realizati o functie care calculeaza si returneaza suma elementelor vectorului. Apelati-o!
+    
+
+
+
+* Pentru a realiza o aplicatie de tip consola in Dev-C++ trebuie sa urmariti urmatorii pasi:
+1.  mai intai se creaza un proiect care va contine fisierele unei aplicatii consola (!maxim un fisier .cpp poate sa 
+contina functia main):
+    -  File - > New -> Project –> Console Application si se da un nume proiectului;
+    -  in fereastra Create new project : 
+		- selectati calea dorita si creati un director nou (de preferat cu numele identic cu cel al proiectului)
+		- deschideti-l si salvati in el fisierul cum_ati_numit_proiectul.dev
+    - in acest moment o sa se genereze automat un fiser care contine functia main - dati-i un nume
+
+		#include <cstdlib>
+		#include <iostream>
+
+		using namespace std;
+
+		int main()
+		{
+    		 
+    		return 0;
+		}
+
+
+    -  in acest proiect puteti crea cate fisiere doriti - dar nici unu altul nu trebuie sa mai contina main
+
+In acest moment aveti creat un proiect gol. 
+
+
+ 

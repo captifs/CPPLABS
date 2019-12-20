@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Desktop/Lab05/complex.cpp
+iostream
+-
+complex.h
+C:/Desktop/Lab05/complex.h
+
+C:/Desktop/Lab05/complex.h
+iostream
+-
+
+C:/Desktop/Lab05/main.cpp
+iostream
+-
+complex.h
+C:/Desktop/Lab05/complex.h
+

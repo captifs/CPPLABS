@@ -1,0 +1,3 @@
+C:/Desktop/myHMWRK/cmake-build-debug/CMakeFiles/myHMWRK.dir
+C:/Desktop/myHMWRK/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Desktop/myHMWRK/cmake-build-debug/CMakeFiles/rebuild_cache.dir

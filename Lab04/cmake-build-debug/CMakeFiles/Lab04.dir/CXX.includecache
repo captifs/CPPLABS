@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Desktop/Lab04/TV.cpp
+iostream
+-
+TV.h
+C:/Desktop/Lab04/TV.h
+
+C:/Desktop/Lab04/TV.h
+
+C:/Desktop/Lab04/main.cpp
+iostream
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+algorithm
+-
+vector
+-
+TV.h
+C:/Desktop/Lab04/TV.h
+

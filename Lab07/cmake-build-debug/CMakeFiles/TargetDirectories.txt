@@ -1,0 +1,3 @@
+C:/Desktop/Lav07/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Desktop/Lav07/cmake-build-debug/CMakeFiles/Lav07.dir
+C:/Desktop/Lav07/cmake-build-debug/CMakeFiles/edit_cache.dir

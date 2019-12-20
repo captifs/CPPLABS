@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Desktop/Lav07/clase.cpp
+iostream
+-
+clase.h
+C:/Desktop/Lav07/clase.h
+
+C:/Desktop/Lav07/clase.h
+iostream
+-
+
+C:/Desktop/Lav07/main.cpp
+clase.h
+C:/Desktop/Lav07/clase.h
+iostream
+-
+
